@@ -1,0 +1,146 @@
+fileFormatVersion: 2
+guid: 1b5099e6bb431cc4f8154d8a79ec6f96
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Building
+    100002: Ceiling
+    100004: Door_Left_Bottom
+    100006: Door_Left_Top
+    100008: Door_Right_Bottom
+    100010: Door_Right_Top
+    100012: Roof
+    100014: //RootNode
+    400000: Building
+    400002: Ceiling
+    400004: Door_Left_Bottom
+    400006: Door_Left_Top
+    400008: Door_Right_Bottom
+    400010: Door_Right_Top
+    400012: Roof
+    400014: //RootNode
+    2100000: Frame
+    2100002: InnerFrame
+    2100004: Glass
+    2100006: White
+    2300000: Building
+    2300002: Ceiling
+    2300004: Door_Left_Bottom
+    2300006: Door_Left_Top
+    2300008: Door_Right_Bottom
+    2300010: Door_Right_Top
+    2300012: Roof
+    3300000: Building
+    3300002: Ceiling
+    3300004: Door_Left_Bottom
+    3300006: Door_Left_Top
+    3300008: Door_Right_Bottom
+    3300010: Door_Right_Top
+    3300012: Roof
+    4300000: Door_Right_Bottom
+    4300002: Door_Left_Bottom
+    4300004: Building
+    4300006: Door_Right_Top
+    4300008: Door_Left_Top
+    4300010: Ceiling
+    4300012: Roof
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Frame
+    second: {fileID: 2100000, guid: 775d51d20c695f747a201605ee29a4bf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glass
+    second: {fileID: 2100000, guid: bf0471ca9cd4b064691d6b43c6fa7919, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: InnerFrame
+    second: {fileID: 2100000, guid: 3308ec33c43bdfb4483f6acfcd08c1a2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: White
+    second: {fileID: 2100000, guid: 6c5a177ef4452044cafb34ed0b2c9b09, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
