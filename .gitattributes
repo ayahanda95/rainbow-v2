@@ -1,0 +1,5 @@
+Gorilla_NORM.png filter=lfs diff=lfs merge=lfs -text
+Hippopotamus_NORM.png filter=lfs diff=lfs merge=lfs -text
+Hyena_NORM.png filter=lfs diff=lfs merge=lfs -text
+Phacochoerus_NORM.png filter=lfs diff=lfs merge=lfs -text
+AtlasAfricaV2_NORM.png filter=lfs diff=lfs merge=lfs -text
